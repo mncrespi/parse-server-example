@@ -53,8 +53,8 @@ const dashboard = new ParseDashboard({
       // primaryBackgroundColor: '#FFA500', // Orange
       // secondaryBackgroundColor: '#FF4500', // OrangeRed
     }],
-    ParseDashboardUsers,
-    useEncryptedPasswords: false,
+    users: ParseDashboardUsers,
+    useEncryptedPasswords: true,
     iconsFolder: path.join(__dirname, '/icons'),
   }, 
   {

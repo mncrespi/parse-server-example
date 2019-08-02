@@ -1,11 +1,11 @@
 {
   "name": "parse-server-example",
   "version": "1.4.0",
-  "description": "An example Parse API server using the parse-server module",
+  "description": "An example Parse Server with Dashboard with Express",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ParsePlatform/parse-server-example"
+    "url": "https://github.com/mncrespi/parse-server-example.git"
   },
   "license": "MIT",
   "dependencies": {
