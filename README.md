@@ -2,6 +2,13 @@
 
 A parse Server Demo, App Backend Push Notification.
 
+## Prerequisites
+
+- Node +4.3
+- MongoDB version 2.6.X, 3.0.X or 3.2.X
+- Python 2.x
+
+
 ## Installation
 
 ```sh
