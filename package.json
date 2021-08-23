@@ -14,7 +14,7 @@
     "kerberos": "^1.1.2",
     "parse": "^2.6.0",
     "parse-dashboard": "^1.4.3",
-    "parse-server": "^3.7.2"
+    "parse-server": "^4.5.2"
   },
   "scripts": {
     "start": "node -r dotenv/config index.js"
